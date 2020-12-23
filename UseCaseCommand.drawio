@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T12:56:22.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pODpPzHC80cbjQykbkQF" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T12:58:02.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z1ff4GmXyz7PGT_60q0B" version="14.1.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -54,8 +54,8 @@
         <mxCell id="rr55XMxGJXw-yliVTniT-48" value="Choix du point de livraison" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="470" y="140" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rr55XMxGJXw-yliVTniT-60" value="&lt;b&gt;Client&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="300" width="50" height="20" as="geometry" />
+        <mxCell id="rr55XMxGJXw-yliVTniT-60" value="&lt;b&gt;Acheteur&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="300" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zPnv1FVnI_NJTMRD5HDy-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="42.500000000000014" y="250" width="25" height="50" as="geometry" />
