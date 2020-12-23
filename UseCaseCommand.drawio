@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T13:03:15.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="DruLMlhnMZCNLCHkODkc" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-23T13:08:00.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="pZJuK_US4tArytBq9Pxa" version="14.1.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,11 +63,11 @@
         <mxCell id="zPnv1FVnI_NJTMRD5HDy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="287" as="targetPoint" />
-            <mxPoint x="349.99999999999864" y="362" as="sourcePoint" />
+            <mxPoint x="349.99999999999864" y="418" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zPnv1FVnI_NJTMRD5HDy-3" value="Consulter les produits" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="350" y="337" width="150" height="50" as="geometry" />
+          <mxGeometry x="350" y="393" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zPnv1FVnI_NJTMRD5HDy-5" value="&lt;b&gt;&amp;lt;&amp;lt;System&amp;gt;&amp;gt;&lt;br&gt;Système bancaire&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="438" width="120" height="30" as="geometry" />
@@ -90,10 +90,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zPnv1FVnI_NJTMRD5HDy-14" value="Consulter état commande" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="350" y="413" width="150" height="50" as="geometry" />
+          <mxGeometry x="350" y="464" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zPnv1FVnI_NJTMRD5HDy-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="354.28571428571433" as="targetPoint" />
+            <mxPoint x="350.0000000000002" y="354" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="270" y="354" />
+              <mxPoint x="270" y="354" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="zPnv1FVnI_NJTMRD5HDy-16" value="Annuler&amp;nbsp; commande" style="ellipse;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="350" y="490" width="150" height="50" as="geometry" />
+          <mxGeometry x="350" y="327" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
