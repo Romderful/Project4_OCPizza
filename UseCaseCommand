@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T14:42:38.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SzV1qZz5VI2T2Rko88NA" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T14:44:09.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="mTrpzeyvPv2C0RWmp5lW" version="14.1.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -80,8 +80,8 @@
             <mxPoint x="947.85" y="393" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zPnv1FVnI_NJTMRD5HDy-8" value="Récupérer paiement" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="767.85" y="418" width="150" height="50" as="geometry" />
+        <mxCell id="zPnv1FVnI_NJTMRD5HDy-8" value="Paiement en ligne" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="767.85" y="368" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zPnv1FVnI_NJTMRD5HDy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="zPnv1FVnI_NJTMRD5HDy-3" edge="1">
           <mxGeometry relative="1" as="geometry">
