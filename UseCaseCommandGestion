@@ -1,17 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T14:32:11.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="U_MpzngRTdVPSyheyMw5" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T14:48:10.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="vOFdHMQZ0f2C8W6vnRJZ" version="14.1.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sDUrDpI4oseZmOF-5nHw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=345;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sDUrDpI4oseZmOF-5nHw-42">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1057" y="393" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="987" y="393" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sDUrDpI4oseZmOF-5nHw-42" value="&lt;b&gt;Gestion des commandes&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="237" y="40" width="750" height="570" as="geometry" />
         </mxCell>
@@ -36,12 +28,6 @@
         </mxCell>
         <mxCell id="sDUrDpI4oseZmOF-5nHw-56" value="Visualiser stock" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="660" y="340" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="sDUrDpI4oseZmOF-5nHw-57" value="&lt;b&gt;&amp;lt;&amp;lt;System&amp;gt;&amp;gt;&lt;br&gt;Système fournisseur&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="428" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="sDUrDpI4oseZmOF-5nHw-58" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="1074.5" y="368" width="25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sDUrDpI4oseZmOF-5nHw-86" value="&lt;b&gt;Manager&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="129.26" y="584" width="60" height="20" as="geometry" />
