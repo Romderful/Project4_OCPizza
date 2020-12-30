@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T11:31:48.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MT7wdTXDQHhaqDEMptfq" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T11:51:48.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="gLZ_Kzo3LUO19Bg2SCNG" version="14.1.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,11 +69,20 @@
         <mxCell id="jkakL33AM9vOSo_SuB8X-1" value="&lt;b&gt;Préparateur&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="199.88000000000002" y="339" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="jkakL33AM9vOSo_SuB8X-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="jkakL33AM9vOSo_SuB8X-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="315" as="sourcePoint" />
+            <mxPoint x="459.99999999999864" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jkakL33AM9vOSo_SuB8X-2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="227.38000000000008" y="283" width="25" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jkakL33AM9vOSo_SuB8X-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="227.38000000000008" y="84" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jkakL33AM9vOSo_SuB8X-4" value="Visualiser les recettes de pizzas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
