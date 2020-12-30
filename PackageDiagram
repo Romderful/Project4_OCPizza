@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-30T11:27:09.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JnhEudNkAFpazjDKUq6-" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-30T11:49:14.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-P2H8jx3KT-hRgLifax6" version="14.1.2" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -27,16 +27,16 @@
         <mxCell id="So7w1Nw9AT64LP-nqXO_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=33;entryPerimeter=0;endArrow=open;endFill=0;dashed=1;" parent="1" source="y67z7_urz4S1GbcNkPid-20" target="y67z7_urz4S1GbcNkPid-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2Lfjt261G0SLFq_uv9wR-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=52;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y67z7_urz4S1GbcNkPid-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="999.9999999999995" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="y67z7_urz4S1GbcNkPid-20" value="Constitution des &lt;br&gt;commandes" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="521" y="149" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="y67z7_urz4S1GbcNkPid-21" value="Authentification" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="731" y="279" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="So7w1Nw9AT64LP-nqXO_-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=52;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="y67z7_urz4S1GbcNkPid-22" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1001" y="569" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="So7w1Nw9AT64LP-nqXO_-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=52;exitPerimeter=0;endArrow=none;endFill=0;" parent="1" source="y67z7_urz4S1GbcNkPid-22" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -80,12 +80,6 @@
         </mxCell>
         <mxCell id="y67z7_urz4S1GbcNkPid-23" value="Gestion des&lt;br&gt;&amp;nbsp;commandes" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="521" y="384" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="y67z7_urz4S1GbcNkPid-24" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="1045.5" y="549" width="25" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="y67z7_urz4S1GbcNkPid-25" value="&lt;b&gt;&amp;lt;&amp;lt;System&amp;gt;&amp;gt;&lt;br&gt;Système fournisseur&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="993" y="609" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xo0l4iojMlbE_rCQ2IHl-1" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="365.04" y="169" width="25" height="50" as="geometry" />
