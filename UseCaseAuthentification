@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T17:58:52.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="_toSPFoe0u8dd4sUv-c7" version="14.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T17:59:02.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="l3zHH_g1-qoevH-alsVm" version="14.2.3" type="github">
   <diagram id="l9HL_QsStVyi2T8j2wAB" name="Page-1">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_Q3-hkrcjOVuLXEbxSar-1" value="&lt;b&gt;Authentification&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="492" y="180" width="578" height="410" as="geometry" />
+          <mxGeometry x="492" y="180" width="468" height="410" as="geometry" />
         </mxCell>
         <mxCell id="_Q3-hkrcjOVuLXEbxSar-2" value="&lt;b&gt;Utilisateur&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="414" width="70" height="20" as="geometry" />
