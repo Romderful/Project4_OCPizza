@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-08T16:22:14.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="qhfxJrPU8SlP_TkQZDCJ" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-08T16:23:57.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36" etag="37zT40hQzhN_H5-8QtoS" version="14.3.0" type="github">
   <diagram id="2LVP_a94lmwEsMS9jXU8" name="Page-1">
-    <mxGraphModel dx="2370" dy="2492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,9 +140,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yjygjWnSfkvRlFPbdIfW-33" value="Paiement&lt;br&gt;en ligne" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjygjWnSfkvRlFPbdIfW-32">
+        <mxCell id="yjygjWnSfkvRlFPbdIfW-33" value="Paiement par&lt;br&gt;CB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yjygjWnSfkvRlFPbdIfW-32">
           <mxGeometry x="-0.5339" y="1" relative="1" as="geometry">
-            <mxPoint x="10" y="1" as="offset" />
+            <mxPoint x="-0.5999999999999996" y="0.99" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yjygjWnSfkvRlFPbdIfW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1">
