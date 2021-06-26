@@ -1,1 +1,1 @@
-# Project4_OCPizza
+# OCPizza - Openclassrooms project 4
